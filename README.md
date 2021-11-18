@@ -1,2 +1,2 @@
 # Spam-Filter-
-An SMS Spam filter, to different ham text from spam text
+An SMS Spam filter, to differentiate ham text from spam text
